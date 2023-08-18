@@ -2,6 +2,22 @@
 
 Flutter realtime object detection with Tensorflow Lite
 
+## :bulb: Demo
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image1.jpg" width="250"></td>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image2.jpg" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image3.jpg" width="250"></td>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image4.jpg" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image5.jpg" width="250"></td>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image6.jpg" width="250"></td>
+  </tr>
+ </table>
+
 ## Info
 
 An app made with Flutter and TensorFlow Lite for realtime object detection using model YOLO, SSD, MobileNet, PoseNet.
@@ -205,29 +221,4 @@ Downgrade your TensorFlowLiteC in /ios/Podfile.lock to 2.2.0
 run pod install in your /ios folder
 ```
   <br>
-6. Source code
-
-```
-please checkout repo github
-https://github.com/hiennguyen92/flutter_realtime_object_detection
-```
-  * <a href='https://github.com/hiennguyen92/flutter_realtime_object_detection'>https://github.com/hiennguyen92/flutter_realtime_object_detection</a>
-## :bulb: Demo
-
-1. Demo Illustration: https://www.youtube.com/watch?v=__i7PRmz5kY&ab_channel=HienNguyen
-2. Image
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image1.jpg" width="250"></td>
-    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image2.jpg" width="250"></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image3.jpg" width="250"></td>
-    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image4.jpg" width="250"></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image5.jpg" width="250"></td>
-    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image6.jpg" width="250"></td>
-  </tr>
- </table>
 
